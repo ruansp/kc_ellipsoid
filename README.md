@@ -1,5 +1,5 @@
 # The Kinematics of Containment for N-dimensional Ellipsoids
-This article introduces the theory of the Kinematic of Containment and studies in details for the case of ellipsoids in n-dimensional Euclidean space. This theory can be applied to error estimations for parts handling tasks and robotic motion planning in challenging environment. The work has been published in the ASME Journal of Mechanisms and Robotics.
+This article introduces the theory of the Kinematic of Containment and studies in details for the case of ellipsoids in n-dimensional Euclidean space. This theory can be applied to error estimations for parts handling tasks and robotic motion planning in challenging environment.
 
 Authors: Sipu Ruan (<ruansp@jhu.edu>), Jianzhong Ding, Qianli Ma, Gregory S. Chirikjian
 
@@ -54,4 +54,17 @@ Knowing the set of allowable motions for a convex body moving inside a slightly 
 
 * [Robotics Toolbox (Release 10)](http://petercorke.com/wordpress/toolboxes/robotics-toolbox): Functions that are useful for the study and simulation of classical arm-type robotics, for example such things as kinematics, dynamics, and  trajectory generation. (By Peter Corke)
 
+## Citation
+The code is attached to the following article:
+"Ruan, S., Ding, J., Ma, Q. and Chirikjian, G.S., 2019. The Kinematics of Containment for N-Dimensional Ellipsoids. Journal of Mechanisms and Robotics, pp.1-19."
 
+Bibtex:
+```
+@article{ruan2019kinematics,
+  title={The Kinematics of Containment for N-Dimensional Ellipsoids},
+  author={Ruan, Sipu and Ding, Jianzhong and Ma, Qianli and Chirikjian, Gregory S},
+  journal={Journal of Mechanisms and Robotics},
+  pages={1--19},
+  year={2019}
+}
+```
