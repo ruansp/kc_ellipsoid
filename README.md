@@ -56,9 +56,9 @@ Knowing the set of allowable motions for a convex body moving inside a slightly 
 
 ## Citation
 The code is attached to the following article:
-```
+
 Ruan, S., Ding, J., Ma, Q. and Chirikjian, G.S., 2019. The Kinematics of Containment for N-Dimensional Ellipsoids. Journal of Mechanisms and Robotics, pp.1-19.
-```
+
 
 Bibtex:
 ```
