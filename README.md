@@ -66,7 +66,10 @@ Bibtex:
   title={The Kinematics of Containment for N-Dimensional Ellipsoids},
   author={Ruan, Sipu and Ding, Jianzhong and Ma, Qianli and Chirikjian, Gregory S},
   journal={Journal of Mechanisms and Robotics},
-  pages={1--19},
-  year={2019}
+  volume={11},
+  number={4},
+  pages={041005},
+  year={2019},
+  publisher={American Society of Mechanical Engineers}
 }
 ```
